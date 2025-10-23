@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>lab1</title>
+</head>
+<body>
+    <h1>get to know me</h1>
+    <p>my name is [Osama Shehadeh]</p>
+    <p>my favorite color is [Black]</p>
+    <p>i'd like to visit [Italy] someday</p>
+    <p>i like playing video games in [my free time]</p>
+    <p>i study [CSD] at [TTU]</p>
+    <img src="download.jpeg" alt="logo of my university" width="300" height="300">
+    <a href="https://www.ttu.edu">link to my university</a>
+</body>
+</html>
